@@ -24,7 +24,7 @@ function handleMouseClick(evt){
 }
 
 window.onload = function(){
-    document.querySelector(".main").innerHTML = "harrison";
+    // document.querySelector(".main").innerHTML = "harrison";
 
     canvas = document.getElementById("gameCanvas");
     canvasContext = canvas.getContext('2d');
